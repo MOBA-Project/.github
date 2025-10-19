@@ -1,4 +1,4 @@
-
+![demo](https://github.com/user-attachments/assets/268deced-6a76-4319-9cd0-7c3eecb7ed48)
 
 # Mova Movies
 
@@ -15,6 +15,9 @@
 <br/>
 
 ## 핵심 기능
+
+* **`로그인 및 메인페이지` :** 인기작 및 장르별로 조회가 가능합니다.
+![demo](https://github.com/user-attachments/assets/ff809fb7-8873-46f6-9c1a-88cbe9645680)
 
 * **`영화 조회` :** 인기작 및 장르별로 조회가 가능합니다.
 * **`영화 정보 및 평점` :** Movies 페이지에서 최신 리뷰 및 영화 정보가 확인 가능합니다.
