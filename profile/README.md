@@ -8,8 +8,6 @@
 
 ---
 
-![hero](https://github.com/user-attachments/assets/19353230-4b31-4c27-a382-0e14381b100f)
-
 ## 🔑 핵심 기능
 
 ### 1) 로그인 & 메인 페이지
@@ -37,6 +35,10 @@
 사용자 취향/활동 데이터를 바탕으로 **OpenAI API**를 활용한 맞춤 영화 추천을 제공합니다.
 
 ![demo-ai](https://github.com/user-attachments/assets/fcaba4f8-c925-4c96-8ec6-3f0d7fc3d5a6)
+
+<br/>
+
+![demo6](https://github.com/user-attachments/assets/e8a1df08-3b67-483f-a99a-1f4c1d0e7d85)
 
 ---
 
