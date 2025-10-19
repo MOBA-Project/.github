@@ -1,5 +1,3 @@
-![demo](https://github.com/user-attachments/assets/268deced-6a76-4319-9cd0-7c3eecb7ed48)
-
 # Mova Movies
 
 경량 영화 검색 · 북마크 · 리뷰 웹앱
