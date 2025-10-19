@@ -84,11 +84,14 @@
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
 | <img alt="Notion logo" src="https://www.notion.so/cdn-cgi/image/format=auto,width=640,quality=100/front-static/shared/icons/notion-app-icon-3d.png" height="65" width="65"> | <img alt="github logo" src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"> | <img alt="Discord logo" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg" height="65" width="65"> | <img src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png" alt="Figma" width="65" height="65" /> |
 
+
+
 ### Front-End
 
-|                                          React                                          |                                             TypeScript                                            |                                                       Zustand                                                      |                                             React Router                                             |
-| :-------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
-| <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="65" height="65"> | <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="65" height="65"> | <img src="https://img.shields.io/badge/Zustand-%F0%9F%90%BB-000000?style=for-the-badge" alt="Zustand" height="65"> | <img src="https://cdn.simpleicons.org/reactrouter/CA4245" alt="React Router" width="65" height="65"> |
+|                                          React                                          |                                             TypeScript                                            |                                             React Router                                             |
+| :-------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
+| <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="65" height="65"> | <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="65" height="65"> | <img src="https://cdn.simpleicons.org/reactrouter/CA4245" alt="React Router" width="65" height="65"> |
+
 
 ### Back-End
 
