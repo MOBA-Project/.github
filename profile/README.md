@@ -5,7 +5,7 @@
 > 관심 있는 영화를 빠르게 찾고, 북마크로 관리하며, 간단한 리뷰로 기록하는 개인 큐레이션 서비스
 
 - **Team name:** Mova
-- [배포 주소](https://moba-fe-nsu4.vercel.app/) 
+- [배포 주소](https://moba-fe-nsu4.vercel.app/)  (PC전용)
 
 ---
 
@@ -54,6 +54,7 @@
 영화별로 감상문을 작성하고, 댓글을 통해 피드백과 토론을 이어갈 수 있습니다.
 
   
+![demo7](https://github.com/user-attachments/assets/a81b6f52-780f-465d-947d-2b3f1143de7f)
 
 
 <br/>
