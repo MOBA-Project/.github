@@ -57,12 +57,22 @@
 
 <br/>
 
+
 ## 👥 Team Members
+
+
+| <a href="https://github.com/wjdwlsgh"><img src="https://github.com/wjdwlsgh.png" width="220" alt="정진호 프로필" /></a> | <a href="https://github.com/hskhsmm"><img src="https://github.com/hskhsmm.png" width="220" alt="홍성민 프로필" /></a> | <a href="https://github.com/leepg038292"><img src="https://github.com/leepg038292.png" width="220" alt="이평강 프로필" /></a> |
+| :--: | :--: | :--: |
+| **정진호** | **홍성민** | **이평강** |
+| <a href="https://github.com/wjdwlsgh">GitHub</a> | <a href="https://github.com/hskhsmm">GitHub</a> | <a href="https://github.com/leepg038292">GitHub</a> |
+
+
+
 
 | 이름 | 역할 | 담당 업무 |
 | :-- | :--: | :-- |
 | **정진호** | FE · Team Lead | 프론트엔드 AI 추천 페이지를 뺸 전체 페이지 및 기능 |
-| **홍성민** | BE | 영화 조회<br>북마크<br>사용자 인증<br>영화 감상문 게시판<br>댓글 기능 |
+| **홍성민** | BE | 영화 조회<br>북마크<br>인증<br>영화 감상문 게시판<br>댓글 기능 |
 | **이평강** | BE | 영화 상세 리뷰<br>AI 추천 알고리즘 |
 
 
